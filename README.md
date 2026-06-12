@@ -1,16 +1,63 @@
-# React + Vite
+# Shek Malik Basha - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my skills, projects, certifications, education, and professional journey as a Data Science student and Full Stack Developer.
 
-Currently, two official plugins are available:
+**Live Demo:** https://portfolio-kappa-three-5iq96sbq73.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio highlights my academic background, technical skills, projects, certifications, and contact information in a clean and interactive user interface.
 
-## Expanding the ESLint configuration
+The website is designed with a modern dark theme, smooth animations, responsive layouts, and an intuitive user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Features
+
+* Responsive design for desktop, tablet, and mobile devices
+* Interactive Hero section
+* About Me section
+* Skills showcase
+* Featured Projects section
+* Certifications gallery
+* Education timeline
+* Functional Contact Form (EmailJS)
+* Resume download option
+* Social media integration
+* Smooth scrolling navigation
+* Modern UI with Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+
+### Libraries
+
+* React Icons
+* EmailJS
+
+### Deployment
+
+* Vercel
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+
+cd your-repository
+
+npm install
+
+npm run dev
+```
